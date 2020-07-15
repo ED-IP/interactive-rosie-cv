@@ -1,4 +1,4 @@
-// this funciotn is not active yet, emailJS is not configured
+// this function is not active yet, emailJS is not configured
 
 function sendMail(contactForm) {
     emailjs.send("","",{
